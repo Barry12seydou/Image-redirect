@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang=”fr”>
+<head>
+    <meta charset=”UTF-8”>
+    <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
+    <title>Redirection par image</title>
+</head>
+<body>
+    <h1>Cliquez sur l’image pour être redirigé</h1>
+    <a href=”https://www.google.com”>
+        <img src=”https://previews.123rf.com/images/arhimicrostok/arhimicrostok1707/arhimicrostok170702923/81625857-lien-simple-symbole-de-lien-de-icon-chain-ic%C3%B4ne-lien-vers-la-source.jpg” alt=”Visitez Google.com” style=”width: 200px;”>
+    </a>
+</body>
+</html>
